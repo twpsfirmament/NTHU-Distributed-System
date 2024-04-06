@@ -137,5 +137,6 @@ func (s *service) DeleteCommentByVideoID(ctx context.Context, req *pb.DeleteComm
 	if err != nil {
 		return nil, err
 	}
+
 	return &pb.DeleteCommentByVideoIDResponse{}, nil
 }
