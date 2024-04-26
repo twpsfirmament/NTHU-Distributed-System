@@ -1,6 +1,6 @@
 # NTHU-Distributed-System
 
-##Result
+## Result
 
 ![截圖 2024-04-26 下午5 24 56](https://github.com/twpsfirmament/NTHU-Distributed-System/assets/56762399/32b27fac-0618-401b-91f5-8162de2cd6e3)
 
