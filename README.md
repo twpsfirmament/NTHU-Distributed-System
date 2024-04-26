@@ -1,11 +1,14 @@
 # NTHU-Distributed-System
 
-![image](https://github.com/twpsfirmament/NTHU-Distributed-System/assets/56762399/d55cc0a2-a4ee-4c23-9826-abf1ecad4b86)
-
 The repository includes microservices for the NTHU Distributed System course lab. The goal of this project is to **introduce a production, realworld microservices backend mono-repo architecture** for teaching purpose.
 
 Before going through the following parts, make sure your Docker is running since we are generating/testing/building code inside a Docker container to prevent dependencies from conflicting/missing on your host machine.
 
+## Result Screenshot
+![image](https://github.com/twpsfirmament/NTHU-Distributed-System/assets/56762399/d55cc0a2-a4ee-4c23-9826-abf1ecad4b86)
+
+## otelkit test
+![截圖 2024-04-26 下午5 24 56](https://github.com/twpsfirmament/NTHU-Distributed-System/assets/56762399/cb1d02c6-87e7-422b-8a72-48340e3a2821)
 
 
 ## Features
